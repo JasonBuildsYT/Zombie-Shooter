@@ -1,0 +1,1 @@
+same configuration as RunAway, however I removed punishments in the code
